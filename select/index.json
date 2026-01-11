@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "No Pain No Gain",
+  "base_artist": "田中有紀",
+  "createdAt": "2026-01-11T12:42:58.156711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "TVXQ",
+      "has_synced": false,
+      "path": "select/01_No_Pain_No_Gain_TVXQ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NO PAIN NO GAIN",
+      "artist": "Tohoshinki",
+      "has_synced": false,
+      "path": "select/02_NO_PAIN_NO_GAIN_Tohoshinki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "砂利BOYS",
+      "has_synced": true,
+      "path": "select/03_No_Pain_No_Gain_砂利BOYS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No pain No gain",
+      "artist": "Niro",
+      "has_synced": true,
+      "path": "select/04_No_pain_No_gain_Niro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "Marzela",
+      "has_synced": true,
+      "path": "select/05_No_Pain_No_Gain_Marzela.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/06_No_Pain_No_Gain_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/07_No_Pain_No_Gain_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Pain, No Gain",
+      "artist": "Majestica",
+      "has_synced": false,
+      "path": "select/08_No_Pain,_No_Gain_Majestica.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NO PAIN NO GAIN",
+      "artist": "Sneazzy",
+      "has_synced": true,
+      "path": "select/09_NO_PAIN_NO_GAIN_Sneazzy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Pain, No Gain",
+      "artist": "The Nylons",
+      "has_synced": false,
+      "path": "select/10_No_Pain,_No_Gain_The_Nylons.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "The Whispers",
+      "has_synced": false,
+      "path": "select/11_No_Pain_No_Gain_The_Whispers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/12_No_Pain_No_Gain_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Pain No Gain",
+      "artist": "Jurga",
+      "has_synced": false,
+      "path": "select/13_No_Pain_No_Gain_Jurga.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No pain no gain",
+      "artist": "Los Zigarros",
+      "has_synced": false,
+      "path": "select/14_No_pain_no_gain_Los_Zigarros.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Pain No Gain - Live",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/15_No_Pain_No_Gain_-_Live_Scorpions.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Pain No Gain",
+      "artist": "田中有紀",
+      "has_synced": false,
+      "path": "select/pl_01_No_Pain_No_Gain_田中有紀.txt"
+    }
+  ]
+}
